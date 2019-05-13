@@ -641,7 +641,7 @@
             "maxDistance": 20
         }
     ],
-    "manualConfig": "\/* \n\nBeast 4 extruder with 3x3 autolevelling using a BLTouch and using stock z endstop as a max endstop\n\nSee http:\/\/3dbeastbuilders.boards.net\/thread\/231\/bltouch-auto-leveling-distortion-correction\n\nNote that thermistors must be connected in sequence T0, T1, T2, THB.\nDo not use T3 connector.\n\n*\/",
+    "manualConfig": "\/* \n\nBeast 3 extruder with 3x3 autolevelling using a BLTouch and using stock z endstop as a max endstop\n\nSee http:\/\/3dbeastbuilders.boards.net\/thread\/231\/bltouch-auto-leveling-distortion-correction\n\nNote that thermistors must be connected in sequence T0, T1, T2.\nDo not use T3 connector.\n\n*\/",
     "zHomeMinTemperature": 0,
     "zHomeXPos": 999999,
     "zHomeYPos": 999999,
