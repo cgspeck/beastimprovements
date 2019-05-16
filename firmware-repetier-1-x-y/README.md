@@ -11,6 +11,8 @@ Flavours:
  * `config-4x-bltouch.json`: as per `config-4x.json` but with software bed levelling support using a BL Touch probe and removal of the mechanical Z end-stop per this post: [BLTouch Auto Leveling / Distortion Correction.](http://3dbeastbuilders.boards.net/thread/231/bltouch-auto-leveling-distortion-correction)
  * `config-1x-bltouch-min.json`: as per `config-4x-bltouch-min.json` but only instructing extruder number one of four, in a 217x214 area (i.e. other three extruders remain physically attached to gantry)
 
+[Installing and tuning the BL Touch](https://www.youtube.com/watch?time_continue=374&v=U2zxzn0K_5U)
+
 ## Compiling
 
 ### Prerequisites
