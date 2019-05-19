@@ -13,7 +13,7 @@ In order for the 1.x.y series firmware to work the following wiring changes must
 * Thermistor 3 -> T2
 * Thermistor 4 -> THB
 
-In the T3 pin does not appear to be usable.
+The T3 pin does not appear to be usable.
 
 ---
 
